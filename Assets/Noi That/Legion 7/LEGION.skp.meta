@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 3fe7a8b0e928c5744bd1aa9d10d866f3
+SketchUpImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11_Legion_7_Hero_Top_View
+    second: {fileID: 2100000, guid: 67beab388509aa244a6f0ac5e140423d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3c3486456c6394
+    second: {fileID: 2100000, guid: e6f847bb4fd17904497216fa9ae6d5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte Keydeck
+    second: {fileID: 2100000, guid: cf9ee956741e13e4391afa408fafaacc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallpaper
+    second: {fileID: 2100000, guid: 6b5b8dd48a536f6479b958c69b6673e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color C05]'
+    second: {fileID: 2100000, guid: ebb2cdbc6cefd404ab088ec8afb05548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color D07]'
+    second: {fileID: 2100000, guid: 8dcfbe8b006e3fb43b0cd5d701281335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color G07]'
+    second: {fileID: 2100000, guid: cea1523495fc446488d41f979cbe4e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color I08]'
+    second: {fileID: 2100000, guid: 6339fa786e002dd4e9bfd5ea2814ed47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color J06]'
+    second: {fileID: 2100000, guid: e1d11ad9574766b49a227cef8631e993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M00]'
+    second: {fileID: 2100000, guid: a39ff0bdcfc3098448181efb7f3476b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M03]'
+    second: {fileID: 2100000, guid: 72b181b98b89d8d4badd200307e6a9c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M05]'
+    second: {fileID: 2100000, guid: f0e8e08b16700a04d9bed80a2bf41c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M05]1'
+    second: {fileID: 2100000, guid: dac520cdf8a724c4e9fc5113dd6f51cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M06]'
+    second: {fileID: 2100000, guid: d3ef6e68587a25f489b362bff2528c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M06]1'
+    second: {fileID: 2100000, guid: 9a671c5e72c671142976b35cf2a75596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]'
+    second: {fileID: 2100000, guid: f11e3aaa0680ea049806633a59482a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]1'
+    second: {fileID: 2100000, guid: e6acff1290f298045958606b82308b2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]2'
+    second: {fileID: 2100000, guid: c213a691329a11f4d8d65a29178551c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M08]'
+    second: {fileID: 2100000, guid: e40d7b78427decf4e9bd29468d9b7e51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 9dda11d6da632ab44ba239be72fe9479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Gray]'
+    second: {fileID: 2100000, guid: 01f6f62500bbd3147816c5546a64c5bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color M09_
+    second: {fileID: 2100000, guid: cf798140fe207154098a4eefdaf3eea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: e2adf8d9a5f178346a7db65dd006ce2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lenovo-logo
+    second: {fileID: 2100000, guid: 4068a5305aa780a458d7360f6295191d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11_Legion_7_Hero_Top_View
+    second: {fileID: 2800000, guid: 11ae56ab70be3fc49b76545d30cc8d77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3c3486456c6394
+    second: {fileID: 2800000, guid: 99682bd4c2d65c843853985f92b46f61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pink Landscape Desktop Wallpaper(1)
+    second: {fileID: 2800000, guid: 21be2392a5380f2439fedd553fac8463, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Color M09_
+    second: {fileID: 2800000, guid: f42a5717cd8e6a84fbc6c4d0dfe603ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lenovo-logo
+    second: {fileID: 2800000, guid: 8e5387b28f6f96a4db9f1a35bdeca956, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eb7daff7405089de4f685ab8ec739825
+  fileUnit: 0
